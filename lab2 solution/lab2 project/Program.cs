@@ -13,6 +13,7 @@ namespace lab2_project
         }
 
         static void f() {
+            Console.WriteLine("hello from desk");
 
         }
 
