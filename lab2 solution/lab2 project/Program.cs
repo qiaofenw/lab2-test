@@ -11,5 +11,9 @@ namespace lab2_project
         static void Main(string[] args)
         {
         }
+
+        static void f() { }
+        static void g() { }
+
     }
 }
