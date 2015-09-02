@@ -12,8 +12,18 @@ namespace lab2_project
         {
         }
 
-        static void f() { }
-        static void g() { }
+        static void f() {
+
+        }
+
+        static void g() {
+
+        }
+
+        static void indushabi()
+        {
+
+        }
 
     }
 }
